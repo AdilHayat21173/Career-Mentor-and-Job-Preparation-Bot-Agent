@@ -1,0 +1,13 @@
+fastapi
+langchain
+langchain-core
+langchain-openai
+langchain_community
+openai
+pydantic
+pymupdf
+python-dotenv
+requests
+streamlit
+PyPDF2
+uvicorn

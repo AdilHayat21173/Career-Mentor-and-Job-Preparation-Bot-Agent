@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# Environment variable files
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code and PyCharm settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Cache and temporary files
+*.bak
+*.swp
+.cache/
+*.tmp
+
+# Python egg info
+*.egg-info/
+dist/
+build/
+
+# Test output
+htmlcov/
+coverage.xml
+.pytest_cache/
+
+# Node modules (if using JavaScript in frontend)
+node_modules/
+
+# GitHub and OS generated files
+Thumbs.db
+*.orig
+
+# API Keys or config files
+config.json
+secrets.json
